@@ -1,3 +1,8 @@
+# First practice on calling APIs
+
+Working on a few projects to help my fundamentals on using React and other Libraries and languages.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
